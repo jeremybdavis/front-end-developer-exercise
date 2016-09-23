@@ -48,7 +48,8 @@ body {
   width: 33.3333%;
 }
 
-.step-container {
+.step-container,
+#steps {
   float: right;
   padding: 0 70px;
   width: 66.6666%;
