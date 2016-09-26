@@ -89,4 +89,5 @@ nav a:not(.active) {
 nav .active {
   background-color: #fff;
   color: #36abe1;
+  transition: all .6s linear;
 }
